@@ -1,0 +1,17 @@
+body {
+  background-color: #f9f9f1;
+  color: #0c2845;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+.dark {
+  background-color: #0c2845;
+  color: #f9f9f1;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 1rem;
+}
